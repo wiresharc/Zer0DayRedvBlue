@@ -112,7 +112,6 @@ class Handler(BaseHTTPRequestHandler):
                 "service": "sentinel-collector",
                 "audience": "internal only",
                 "issued_to": "trial-account",
-                "key": "sk-ip-62f91c0a",
                 "rotation": "disabled for trial keys",
                 "alarm_fallback": "ZD{broken_handoff_45#k}",
             })
